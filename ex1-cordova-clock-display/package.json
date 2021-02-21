@@ -1,8 +1,8 @@
 {
   "name": "dev.instilllearning.ex1",
-  "displayName": "Ex1-Cordova-Question-Answer",
+  "displayName": "Ex1-Cordova-Clock-Display",
   "version": "1.0.0",
-  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "description": "A sample Apache Cordova application that display a clock.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
   "keywords": [
     "ecosystem:cordova"
   ],
-  "author": "Apache Cordova Team",
-  "license": "Apache-2.0",
+  "author": "Instill Learning Team",
+  "license": "",
   "devDependencies": {
     "cordova-android": "^9.0.0",
     "cordova-ios": "^6.2.0",
