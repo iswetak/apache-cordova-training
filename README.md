@@ -1,8 +1,43 @@
-# apache-cordova-training
+# Instill Learning
 apache-cordova-training
 
-# Ex1-Cordova-Question-Answer
+# Ex1-Cordova-Clock-Display
+## npm install
+## cordova platform add android
+## cordova run android
 
+
+# Ex2-Cordova-Device-Info-Plugin
+
+# Ex3-Cordova-InAppBrowser-Plugin
+
+# Ex4-Cordova-Geo-Location-Plugin
+
+# Ex5-Cordova-Fetch-API
+
+# Ex6-Cordova-Custom-Plugin-1
+
+# Ex7-Cordova-Custom-Plugin-2
+
+# Ex8-Cordova-Offline-Storage
+
+# Ex9-Cordova-Angular-Ionic5-1
+
+# Ex9-Cordova-Angular-Ionic5-2
+
+# Ex11-Cordova-SAP-UI5
+
+# Ex12-Cordova-IBM-MobileFirst-8
+
+
+
+
+
+
+
+
+
+## --------------------------------------
 ## Create a cordova app
 cordova create [project_name] [package_name] [app_name]
 [project_name]:     ex1-cordova-question-answer

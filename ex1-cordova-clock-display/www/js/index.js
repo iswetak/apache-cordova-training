@@ -9,3 +9,4 @@ function showTime() {
 	document.getElementById("ClockDisplay").textContent = time; 
 } 
 setInterval(showTime, 1000);
+
