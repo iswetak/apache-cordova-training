@@ -30,10 +30,9 @@ $ cordova run android
 
 # Instructor
 [Gaurab Kumar](https://www.linkedin.com/in/progaurab)
-
 Founder of Instill Learning
 
-Check out my other courses on Udemy.
+# Check out my other courses on Udemy.
 
 * [Apache Cordova - Build Hybrid Mobile App for Android & iOS](https://www.udemy.com/course/apache-cordova/?referralCode=7254ECD5F74969030BF2)
 * [Vue 3 Mastery - Router, Vuex, Composition API, Unit Testing](https://www.udemy.com/course/vuejs-mastery/?referralCode=E5BE9F0369E8443597C2)
@@ -43,5 +42,5 @@ Check out my other courses on Udemy.
 * Modern JavaScript: ES6, ES7, ES8 and beyond! (Upcoming)
 
 # Offer
-**Purchase any three courses and get free access to all my courses.** 
+**Purchase any two of above courses and get free access to all my courses.** 
 For free coupon, write me at courses@instilllearning.dev or post at our facebook group: [Instill Learning Dev Community](https://www.facebook.com/groups/InstillLearningDevCommunity)
