@@ -29,9 +29,9 @@ $ cordova run android
 ```
 
 # Instructor
-**[Gaurab Kumar](https://www.linkedin.com/in/progaurab)**
-Founder of Instill Learning
+[Gaurab Kumar](https://www.linkedin.com/in/progaurab)
 
+Founder of Instill Learning
 
 Check out my other courses on Udemy.
 
@@ -42,4 +42,6 @@ Check out my other courses on Udemy.
 * Ionic React - Build Android, iOS & PWA Apps with Ionic 5 (Upcoming)
 * Modern JavaScript: ES6, ES7, ES8 and beyond! (Upcoming)
 
-**Offer** Purchase any three courses and get free access to all my courses. For free coupon, write me at courses@instilllearning.dev or post at our facebook group: [Instill Learning Dev Community](https://www.facebook.com/groups/InstillLearningDevCommunity)
+# Offer
+**Purchase any three courses and get free access to all my courses.** 
+For free coupon, write me at courses@instilllearning.dev or post at our facebook group: [Instill Learning Dev Community](https://www.facebook.com/groups/InstillLearningDevCommunity)
