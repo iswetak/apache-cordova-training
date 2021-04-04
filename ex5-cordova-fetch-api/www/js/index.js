@@ -10,7 +10,7 @@ function onDeviceReady() {
     }
   
     const ul = document.getElementById('authors');
-    const url = 'https://randomuser.me/api/?results=10';
+    const url = 'https://randomuser.me/api/?results=50';
     fetch(url)
     .then((resp) => resp.json())
     .then(function(data) {

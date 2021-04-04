@@ -13,3 +13,7 @@ table {
     text-decoration: gray;
     font-weight: bold;
   }
+
+  .marg {
+    margin: 6px;
+  }
