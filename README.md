@@ -2,12 +2,19 @@
 apache-cordova-training
 
 # Ex1-Cordova-Clock-Display
-## npm install
-## cordova platform add android
-## cordova run android
+To run Ex1-Cordova-Clock-Display, use below command:
+```
+$ cordova platform add android
+$ cordova run android
+```
 
 
 # Ex2-Cordova-Device-Info-Plugin
+To run Ex2-Cordova-Device-Info-Plugin, use below command:
+```
+$ cordova platform add android
+$ cordova run android
+```
 
 # Ex3-Cordova-InAppBrowser-Plugin
 
